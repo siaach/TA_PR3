@@ -1,0 +1,5 @@
+if(x > y) then
+res := a + b
+else
+if(x < y) then
+res := 45ac + 0abc
